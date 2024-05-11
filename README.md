@@ -1,4 +1,5 @@
-This is a ML project that is used to predict diseases such as Diabetics, Heart,Parkinson and Breast cancer using different ML algorithms. We also provided the details of top 5 doctors for the treatment of that particular disease if detected.
+ML project designed for disease prediction, including Diabetes, Heart disease, Parkinson’s and Breast cancer, leveraging various ML algorithms.
+Offers information on top 5 doctors specialized in treating each detected disease.
 
 Tech-Stack:  Python, Streamlit, Machine Learning
 
